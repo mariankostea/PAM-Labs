@@ -1,6 +1,6 @@
 ## Susținerea laboratoarelor
 
-*Nota: Rapoartele trebuie expediate în limba **franceză**, și numai in **.PDF** format.*
+*Notă: Rapoartele trebuie expediate în limba **franceză**, și numai in **.PDF** format.*
 
 ## Cerințe
 
