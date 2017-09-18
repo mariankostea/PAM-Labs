@@ -33,7 +33,7 @@
 
  De fiecare dată când o expresie este evaluată, întreaga expresie, cât și rezultatul sunt stocate undeva în memoria internă. Un menu item numit 'History' v-a fi valabil, si v-a afisa o lista scrollable cu istoria expresiilor calculate.
  
- 6. Accentul pe detalii **(nota10)**
+ 6. Accentul pe detalii **(nota 10)**
  
   Pentru nota maxima, este necesar ca aplicatia să aiba un design cat de cât frumos, să nu fie depistate bug-uri, aplicația să conțină resursele necesare pentru a fi rulată pe diferite dispozitive(Android >4.1)diferite dimensiuni și rezoluții de ecrane.
   
