@@ -3,9 +3,9 @@
 
 #### Obiectivele
 
--familiarizarea cu sintaxa limbajului/platformei alese
--familiarizarea cu componentele UI a platformei alese
--familirizarea cu event-urile și prelucrarea acestora
+- familiarizarea cu sintaxa limbajului/platformei alese
+- familiarizarea cu componentele UI a platformei alese
+- familirizarea cu event-urile și prelucrarea acestora
 
 
 Sarcina de bază, ar constitui ca să elaborați un simplu calculator, cu următoarele cerințe: **(nota 5)**
