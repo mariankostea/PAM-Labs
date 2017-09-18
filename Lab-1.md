@@ -35,5 +35,5 @@
  
  6. Accentul pe detalii **(nota 10)**
  
-  Pentru nota maxima, este necesar ca aplicatia să aiba un design cat de cât frumos, să nu fie depistate bug-uri, aplicația să conțină resursele necesare pentru a fi rulată pe diferite dispozitive(Android >4.1)diferite dimensiuni și rezoluții de ecrane.
+  Pentru nota maxima, este necesar ca aplicatia să aiba un design cat de cât frumos, să nu fie depistate bug-uri, aplicația să conțină resursele necesare pentru a fi rulată pe diferite dispozitive diferite dimensiuni și rezoluții de ecrane.
   
