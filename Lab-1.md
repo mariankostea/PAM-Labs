@@ -31,7 +31,7 @@
  
 5. Pastrarea istoriei de date in fisiere din internal storage **(nota 9)**
 
- De fiecare dată când o expresie este evaluată, întreaga expresie, cât și rezultatul sunt stocate undeva în memoria internă. Un menu item numit 'History' v-a fi valabil, si v-a afisa o lista scrollable cu istoria expresiilor calculate.
+ De fiecare dată când o expresie este evaluată, întreaga expresie, cât și rezultatul sunt stocate undeva în memoria internă. Un menu item numit 'History' va fi valabil, si va afisa o lista scrollable cu istoria expresiilor calculate.
  
  6. Accentul pe detalii **(nota 10)**
  
