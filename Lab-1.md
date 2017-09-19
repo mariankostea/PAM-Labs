@@ -15,10 +15,6 @@
 - 4 butoane pentru operațiile de bază
 - 1 component pentru afisarea rezultatului
 
-Exemplu:
-
-![Android emulator screen](https://lh3.googleusercontent.com/-m4LzY89-60A/Tn9w9Dl34zI/AAAAAAAAAXY/6k0kpZKwu6A/s640/20110919_L0019_L_screen1.jpg)
-
 2. Un singur element de input **(nota 6)**
 
  În loc de a folosi 2 componente numerice pentru input, se va folosi doar un text box, în care user-ul va introduce un număr, apoi va selecta o operație apăsând unul din cele 4 butoane, apoi va introduce al 2-lea numar, Suplimentar este necesar sa adaugati un buton (=), care va calcula rezultatul final. Pe text box-ul de input se va afisa coerent actiunile user-ului. Ex.: 2 + 3. La apăsarea butonului '=', pe text boxul de afisare a rezultatului, se va afisa rezultatul expresiei.
