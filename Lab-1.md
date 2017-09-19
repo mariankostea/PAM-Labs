@@ -8,7 +8,7 @@
 - familirizarea cu event-urile și prelucrarea acestora
 
 
-1. Sarcina de bază, ar constitui ca să elaborați un simplu calculator, cu următoarele cerințe: **(nota 5)**
+1. Sarcina de bază, ar constitui să elaborați un simplu calculator, cu următoarele cerințe: **(nota 5)**
 
 - 2 componente numerice pentru input
 - 1 buton pentru resetarea rezultatului și a inputurilor
@@ -17,7 +17,7 @@
 
 2. Un singur element de input **(nota 6)**
 
- În loc de a folosi 2 componente numerice pentru input, se va folosi doar un text box, în care user-ul v-a introduce un număr, apoi v-a selecta o operație apăsând unul din cele 4 butoane, apoi v-a introduce al 2-lea numar, Suplimentar este necesar sa adaugati un buton (=), care va calcula rezultatul final. Pe text box-ul de input se va afisa coerent actiunile user-ului. Ex.: 2 + 3. La apăsarea butonului '=', pe text boxul de afisare a rezultatului, se va afisa rezultatul expresiei.
+ În loc de a folosi 2 componente numerice pentru input, se va folosi doar un text box, în care user-ul va introduce un număr, apoi va selecta o operație apăsând unul din cele 4 butoane, apoi va introduce al 2-lea numar, Suplimentar este necesar sa adaugati un buton (=), care va calcula rezultatul final. Pe text box-ul de input se va afisa coerent actiunile user-ului. Ex.: 2 + 3. La apăsarea butonului '=', pe text boxul de afisare a rezultatului, se va afisa rezultatul expresiei.
 
 3. Extinderea operațiilor disponibile **(nota 7)**
 
@@ -35,5 +35,5 @@
  
  6. Accentul pe detalii **(nota 10)**
  
-  Pentru nota maxima, este necesar ca aplicatia să aiba un design cat de cât frumos, să nu fie depistate bug-uri, aplicația să conțină resursele necesare pentru a fi rulată pe diferite dispozitive diferite dimensiuni și rezoluții de ecrane.
+  Pentru nota maxima, este necesar ca aplicatia să aiba un design user-friendly, să nu fie depistate bug-uri, aplicația să conțină resursele necesare pentru a fi rulată pe dispozitive de diferite dimensiuni și diferite rezoluții a ecranului.
   
