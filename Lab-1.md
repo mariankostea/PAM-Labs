@@ -8,7 +8,7 @@
 - familirizarea cu event-urile și prelucrarea acestora
 
 
-1. Sarcina de bază, ar constitui să elaborați un simplu calculator, cu următoarele cerințe: **(nota 5)**
+1. Sarcina de bază ar constitui să elaborați un simplu calculator, cu următoarele cerințe: **(nota 5)**
 
 - 2 componente numerice pentru input
 - 1 buton pentru resetarea rezultatului și a inputurilor
