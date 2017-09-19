@@ -5,7 +5,7 @@
 
 - familiarizarea cu sintaxa limbajului/platformei alese
 - familiarizarea cu componentele UI a platformei alese
-- familirizarea cu event-urile și prelucrarea acestora
+- familiarizarea cu event-urile și prelucrarea acestora
 
 
 1. Sarcina de bază ar constitui să elaborați un simplu calculator, cu următoarele cerințe: **(nota 5)**
