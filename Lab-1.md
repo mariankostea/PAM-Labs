@@ -29,7 +29,7 @@
 
  Până acum, inputul era realizat cu ajutorul tastierei standart a sistemului, însă ar fi necesar de creat butoane pentru fiecare cifra în parte. Astfel nu am mai folosi tastiera sistemului, și inputul ar fi mai comod + aplicația ar arăta mai bine.
  
-5. Pastrarea istoriei de date in fisiere din internal storage **(nota 9)**
+5. Păstrarea istoriei de date în fisiere din internal storage **(nota 9)**
 
  De fiecare dată când o expresie este evaluată, întreaga expresie, cât și rezultatul sunt stocate undeva în memoria internă. Un menu item numit 'History' va fi valabil, si va afisa o lista scrollable cu istoria expresiilor calculate.
  
