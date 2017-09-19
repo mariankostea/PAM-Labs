@@ -7,3 +7,6 @@ Pentru lucrările de laborator, este necesar ca fiecare dintre voi să-și aleag
 - Alegerea la dorință a unei platforme mobile
 - Instalarea și configurarea SDK-ului respectiv și instalarea IDE-ului pentru dezvoltarea aplicatiilor
 - Crearea primului proiect.
+
+
+Primul proiect constă în o activitate splash screen, care v-a avea o imagine ca background și va fi afișată pe ecran timp de 5 sec., apoi o altă activitate va fi pornită și va conține un text box cu mesajul "Welcome".
