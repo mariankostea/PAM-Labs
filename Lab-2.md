@@ -21,6 +21,7 @@ Aplicația va conține minim 3 Activități de baza care vor fi numerotate în l
 - Data/Time controller
 - Info TextBox
 - Buttons (și altele la discreție conform specificului aplicației)
+
 **3. Update Activity** - practic e una și aceeași activitate de la Add, doar ca completata deja.
 
 Datele operaționale din interiorul aplicației vor fi stocate în fișier/e XML forma cărora rămâne la discreția 
