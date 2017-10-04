@@ -9,7 +9,7 @@
 Dacă lucrările de laborator reprezintă o continuitate,
 atunci e suficient un singur repozitoriu, însă fiecare laborator va avea ramură (branch) de bază aparte. Master conține ultima versiune stabilă, anume master se va analiza în timpul susținerii.
 - Raportul trebuie să fie expediat în formatul **PDF** și este important să nu fie **arhivat**.
-- Raportul trebuie să conțină :
+- **Raportul trebuie să conțină :**
     - Pagina de titlu;
     - Obiectivele laboratorului;
     - Lista de task-uri implementate;
