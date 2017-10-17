@@ -14,9 +14,9 @@ Condiții:
 
 Serviciul web va fi emulat programatic utilizând metodele protocolului HTTP (GET; )
 
-- a) posibilitate de adaugare 2 sau mai multe fluxuri RSS
-- b) posibilitate de a naviga catre postarea din fluxul incarcat
-- c) salvarea locala a fluxului cu păstrarea sa pînă utilizatorul nu o va distruge
+-  posibilitate de adaugare 2 sau mai multe fluxuri RSS
+-  posibilitate de a naviga catre postarea din fluxul incarcat
+-  salvarea locala a fluxului cu păstrarea sa pînă utilizatorul nu o va distruge
 
 
 
@@ -25,7 +25,7 @@ Serviciul web va fi emulat programatic utilizând metodele protocolului HTTP (GE
 
 Condiții:
 
-- a) Serviciul web va fi emulat programatic utilizând metodele protocolului HTTP (GET; POST;)
-- b) Interfața aplicație trebuie sa fie apropiata după stil conform serviciului ales.
-- c) Tratarea minim a 3 excepții definite de serviciul web ales.
+-  Serviciul web va fi emulat programatic utilizând metodele protocolului HTTP (GET; POST;)
+-  Interfața aplicație trebuie sa fie apropiata după stil conform serviciului ales.
+-  Tratarea minim a 3 excepții definite de serviciul web ales.
 
