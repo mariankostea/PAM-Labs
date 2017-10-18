@@ -3,10 +3,7 @@
 
 #### Obiective
 
-Scopul lucrării de laborator
-
-De realizat emularea programatica a unui serviciu web.
-Se va alege una din aceste puncte:
+Se va alege unul dintre aceste puncte:
 
 **1. De realizat o aplicație ce va încărca de pe o resursă web (preferată, ex: https://news.yam.md/ro/rss ) fluxul RSS al acesteia.**
 
